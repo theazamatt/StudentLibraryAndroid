@@ -6,13 +6,13 @@
 
 ## 📸 Скриншоты (Screenshots)
 
-| Экран входа | Библиотека | Детали книги |
-| :---: | :---: | :---: |
-| ![Login Screen](https://via.placeholder.com/200x400?text=Login+Screen) | ![Library Screen](https://via.placeholder.com/200x400?text=Library+Screen) | ![Details Screen](https://via.placeholder.com/200x400?text=Details+Screen) |
+|             Экран входа              |              Библиотека              | Детали книги |
+|:------------------------------------:|:------------------------------------:| :---: |
+| docs/photo_6_2026-05-08_11-27-50.jpg | docs/photo_5_2026-05-08_11-27-50.jpg | docs/photo_2_2026-05-08_11-27-50.jpg |
 
 | Ридер (Чтение) | Избранное | Админ-панель |
 | :---: | :---: | :---: |
-| ![Reader Screen](https://via.placeholder.com/200x400?text=Reader+Screen) | ![Favorites](https://via.placeholder.com/200x400?text=Favorites) | ![Admin Panel](https://via.placeholder.com/200x400?text=Admin+Panel) |
+| docs/photo_1_2026-05-08_11-27-50.jpg | docs/photo_3_2026-05-08_11-27-50.jpg | docs/photo_4_2026-05-08_11-27-50.jpg |
 
 ---
 
