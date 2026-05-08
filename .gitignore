@@ -1,0 +1,42 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# Local configuration
+local.properties
+.android-user/
+.gradle-user/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Captures and logs
+captures/
+*.log
+
+# Keystore / Signing
+*.jks
+*.keystore
+*.p12
+*.jks_signing_key
+
+# External Native Build
+.externalNativeBuild/
+.cxx/
+
+# Google Services (Optional: keep if you want it in repo, ignore for privacy)
+# google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NDk
+obj/
+libs/
